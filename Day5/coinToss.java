@@ -1,6 +1,6 @@
 package Day5;
 
-public class tossACoin {
+public class coinToss {
     public static void main(String[] args) {
         int n = 3;
         print(n,"");
@@ -15,3 +15,4 @@ public class tossACoin {
 
     }
 }
+
